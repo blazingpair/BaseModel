@@ -30,6 +30,7 @@
 //  3. This notice may not be removed or altered from any source distribution.
 //
 
+#define BASEMODEL_ENABLE_UNIQUE_ID
 
 #import <Foundation/Foundation.h>
 
